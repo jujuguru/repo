@@ -373,7 +373,7 @@ public class MainActivity extends Activity {
 		
 	//xml 에 정의된 버튼클릭 리스너를 fragment로 전달
 	public void onButton(View v){
-		
+		//commit 테스트
 	}
 	
 }
