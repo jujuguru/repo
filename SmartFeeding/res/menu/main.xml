@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_websearch"
+          android:icon="@drawable/action_search"
+          android:title="@string/action_websearch"
+          android:showAsAction="ifRoom|withText" /> <!-- 공간의 여유가 있으면 Text도 함께 보여준다. -->
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:showAsAction="never" /> <!-- 메뉴에 보여지지 않고 오버플로우 메뉴 형태로만 보여진다. -->
+    
+</menu>

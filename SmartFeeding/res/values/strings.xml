@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartFeeding</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="planets_array">
+        <item>홈(요약):Todo</item>
+        <item>기록하기</item>
+        <item>통계</item>
+        <item>커뮤니티:Todo</item>
+        <item>설정</item>
+        <item>도움말:Todo</item>
+        <item>광고없애기:Todo</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="left_B">Left</string>
+    <string name="right_B">Right</string>
+    <string name="delete_day_B">DayDel</string>
+    <string name="delete_B">AllDel</string>
+
+    <string-array name="sel_list_desc">
+        <item>A type</item>
+        <item>B_type</item>
+        <item>C_type</item>
+    </string-array>
+    <string-array name="sel_list_value">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    <string name="sel_list_value_default">A</string>
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>
